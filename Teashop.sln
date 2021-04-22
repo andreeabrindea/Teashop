@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Teashop", "Teashop\Teashop.vcxproj", "{A7ECE9E2-7C1D-4A57-BD6B-EE6809BA4A8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7ECE9E2-7C1D-4A57-BD6B-EE6809BA4A8D}.Debug|x64.ActiveCfg = Debug|x64
+		{A7ECE9E2-7C1D-4A57-BD6B-EE6809BA4A8D}.Debug|x64.Build.0 = Debug|x64
+		{A7ECE9E2-7C1D-4A57-BD6B-EE6809BA4A8D}.Debug|x86.ActiveCfg = Debug|Win32
+		{A7ECE9E2-7C1D-4A57-BD6B-EE6809BA4A8D}.Debug|x86.Build.0 = Debug|Win32
+		{A7ECE9E2-7C1D-4A57-BD6B-EE6809BA4A8D}.Release|x64.ActiveCfg = Release|x64
+		{A7ECE9E2-7C1D-4A57-BD6B-EE6809BA4A8D}.Release|x64.Build.0 = Release|x64
+		{A7ECE9E2-7C1D-4A57-BD6B-EE6809BA4A8D}.Release|x86.ActiveCfg = Release|Win32
+		{A7ECE9E2-7C1D-4A57-BD6B-EE6809BA4A8D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB3B119E-EDD3-4C03-BF54-CED2B8518B13}
+	EndGlobalSection
+EndGlobal
