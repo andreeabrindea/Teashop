@@ -6,19 +6,11 @@ OOP project that manages a teashop, that has tea and accesories.
 - controller ✓
 - ui x
 
-[x]Input validation (Utils)
-
+[x] Input validation (Utils)
 [x] Remove product by id
-
 [x] Display all products
-
 [-] Filtering
-
 [x] Throw (and handle) at least two exceptions 
-
-[x] Undo-redo
-
+[-] Undo-redo
 [x] Persistence
-
 [x] Tests (header)
-
