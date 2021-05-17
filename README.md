@@ -11,12 +11,10 @@ OOP project that manages a teashop, that has tea and accesories.
 - [x] Remove product by id
 
 - [x] Display all products
-
--[-] Filtering
+- [ ] [-] Filtering
 
 - [x] Throw (and handle) at least two exceptions 
-
--[-] Undo-redo
+- [ ] [-] Undo-redo
 
 - [x] Persistence
 
