@@ -1,23 +1,23 @@
 # Teashop
 OOP project that manages a teashop, that has tea and accesories.
 
-[x] Layered architecture:
+- [x] Layered architecture:
 - repository  ✓
 - controller ✓
 - ui x
 
-[x] Input validation (Utils)
+- [x] Input validation (Utils)
 
-[x] Remove product by id
+- [x] Remove product by id
 
-[x] Display all products
+- [x] Display all products
 
-[-] Filtering
+- [-] Filtering
 
-[x] Throw (and handle) at least two exceptions 
+- [x] Throw (and handle) at least two exceptions 
 
-[-] Undo-redo
+- [-] Undo-redo
 
-[x] Persistence
+- [x] Persistence
 
-[x] Tests (header)
+- [x] Tests (header)
